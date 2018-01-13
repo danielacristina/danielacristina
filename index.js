@@ -4,5 +4,18 @@ $('h1').on('mouseover', function() {
 });
 
 $('.page_one').on('mouseover', function() {
-	$(this).animate({ "font-size" : "40px"}, 1000)
+	$(this).animate({ "font-size" : "25px"}, 1000)
 });
+
+$('.page_two').on('mouseover', function() {
+	$(this).animate({ "font-size" : "25px"}, 1000)
+});
+
+$('.page_three').on('mouseover', function() {
+	$(this).animate({ "font-size" : "25px"}, 1000)
+});
+
+$('.page_four').on('mouseover', function() {
+	$(this).animate({ "font-size" : "25px"}, 1000)
+});
+
