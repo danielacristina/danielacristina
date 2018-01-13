@@ -1,0 +1,73 @@
+body {
+	background-color: #F0FFFF;
+	padding-left: 15%;
+	padding-right:15%;
+	margin: 50px;
+}
+
+p {
+	font-size: 20px;
+	color: #F08080;
+	line-height: 25px;
+	text-align: center;
+	font-family: Helvetica;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+	color: #F08080;
+	font-family: Helvetica;
+	position: relative;
+}
+.green {
+		color: #F08080;
+}
+.dogs {
+		  border-radius: 20%;
+		  display: block;
+		  margin-right: auto;
+		  margin-left: auto;
+}
+.pizza {
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 20%;
+}
+
+.centered {
+	font-size: 20px;
+	color: brown;
+	font-family: Helvetica;
+	left: 28%;
+	right:28%;
+	top:0%;
+	text-align: center;
+}
+
+.content {
+	margin-top: 19%;
+}
+
+.page_one {
+			position:fixed;
+			left: 1%;
+			top: 20%;
+}
+
+.page_two {
+			position:fixed;
+			left:1%;
+			top: 30%;
+}
+
+.page_three{
+			position:fixed;
+			left:1%;
+			top: 40%;
+}
+.page_four{
+			position:fixed;
+			left:1%;
+			top: 50%;
+}
